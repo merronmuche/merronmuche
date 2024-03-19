@@ -9,5 +9,3 @@
 📧 Email: merronmuche@gmail.com
 🔗 LinkedIn: [Meron Muche](https://www.linkedin.com/in/meronmuche)
 🐦 GitHub: [merronmuche](https://github.com/merronmuche)
-
-Feel free to reach out for collaboration or questions about my projects!
